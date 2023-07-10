@@ -1,1 +1,2 @@
-Shell Redirections
+#!/bin/bash
+prints “Hello, World”
